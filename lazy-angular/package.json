@@ -1,0 +1,48 @@
+{
+  "name": "lazy-angular",
+  "version": "0.0.1",
+  "description": "Lazy-loading angular apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/snapwich/lazy-angular"
+  },
+  "keywords": [
+    "lazy-load",
+    "angular"
+  ],
+  "author": {
+    "name": "Rich Snapp",
+    "email": "rich@needle.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/snapwich/lazy-angular/issues"
+  },
+  "homepage": "https://github.com/snapwich/lazy-angular",
+  "gitHead": "44b1cce799fc2f93e0196114831edf4cca29d42f",
+  "_id": "lazy-angular@0.0.1",
+  "_shasum": "add17a0bf76cebbc5bc833b32b10092135ae2f03",
+  "_from": "lazy-angular@0.0.1",
+  "_npmVersion": "1.4.14",
+  "_npmUser": {
+    "name": "snapwich",
+    "email": "rich@needle.com"
+  },
+  "maintainers": [
+    {
+      "name": "snapwich",
+      "email": "rich@needle.com"
+    }
+  ],
+  "dist": {
+    "shasum": "add17a0bf76cebbc5bc833b32b10092135ae2f03",
+    "tarball": "http://registry.npmjs.org/lazy-angular/-/lazy-angular-0.0.1.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/lazy-angular/-/lazy-angular-0.0.1.tgz",
+  "readme": "ERROR: No README data found!"
+}
